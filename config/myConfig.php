@@ -1,0 +1,1 @@
+<?php return [ 'checkLogin' => false ];
